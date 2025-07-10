@@ -50,6 +50,3 @@ Kód obce,Název obce,Registrovaní voliči,Odevzdané obálky,Platné hlasy,Ob�
 500526,Bělkovice-Lašťany,1 801,1 078,1 069,97,0,0,83,1,44,81,18,6,15,1,1,104,0,32,333,1,2,75,0,6,8,1,153,7
 ...
 ```
-
-
-
